@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianms&theme=tokyonight&layout=compact)](https://github.com/cristianms/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianms&theme=tokyonight&layout=compact)]
 ![Cristian's github stats](https://github-readme-stats.vercel.app/api?username=cristianms&show_icons=true&theme=tokyonight)
 
 ## Tech Skills
