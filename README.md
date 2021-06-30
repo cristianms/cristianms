@@ -3,15 +3,17 @@
 
 ## Tech Skills
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
-![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Dart](https://img.shields.io/badge/-Dart-black?style=flat-square&logo=dart)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB.svg?logo=yarn&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
+![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
 ## Contact me
 <p style="justify-content:center width: 100%">
