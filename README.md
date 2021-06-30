@@ -1,5 +1,8 @@
-<img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianms&theme=tokyonight&layout=compact" />
-<img height="230px" src="https://github-readme-stats.vercel.app/api?username=cristianms&show_icons=true&theme=tokyonight" />
+<p>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianms&theme=dark&show_icons=true"/>
+  <img height="230px" src="https://github-readme-stats.vercel.app/api?username=cristianms&theme=dark&show_icons=true"/>
+</p>
+
 
 ## Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
