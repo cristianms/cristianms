@@ -53,6 +53,6 @@
     <img align="left" alt="Cristian de Mellos | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:cristian.ms@hotmail.com">
-    <img align="left" alt="Cristian de Mellos | Hotmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Cristian de Mellos | Hotmail" width="26px" src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg" />
   </a>
 </p>
