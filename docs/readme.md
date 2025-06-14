@@ -1,0 +1,1 @@
+Arquivo app-ads.txt utilizado pela Google AdMob
